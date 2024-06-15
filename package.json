@@ -1,0 +1,19 @@
+{
+  "name": "cd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeffry-Geovanny1564/BomberosTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeffry-Geovanny1564/BomberosTest/issues"
+  },
+  "homepage": "https://github.com/Jeffry-Geovanny1564/BomberosTest#readme",
+  "description": ""
+}
